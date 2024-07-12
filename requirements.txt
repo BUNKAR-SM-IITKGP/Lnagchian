@@ -24,3 +24,7 @@ langchain-objectbox
 langserve
 fastapi
 uvicorn
+bs4
+pypdf
+chromadb
+faiss-cpu
